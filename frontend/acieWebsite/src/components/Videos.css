@@ -1,0 +1,24 @@
+.videos-page {
+    position: relative;
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .shop-page h1,
+  .shop-page p {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+  }
+  
+  .shop-page h1 {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  }
+  
+  .shop-page p {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  }
